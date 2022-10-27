@@ -1,12 +1,10 @@
 {
-    "Name": "Mood Manipulation and PST, Experiment 2",
-    "ReferencesAndLinks": [
-        "DOI: "
-    ],
-    "Authors": [
-        "James F Cavanagh",
-        "Trevor C J Jackson"
-    ],
-    "License": "CC0",
-    "BIDSVersion": "1.1.1"
+  "Name": "PST",
+  "ReferencesAndLinks": ["DOI: "],
+  "Authors": [
+    "James F Cavanagh",
+    "Trevor C J Jackson"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
 }
