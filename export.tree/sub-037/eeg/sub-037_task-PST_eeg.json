@@ -1,0 +1,18 @@
+{
+  "InstitutionName": "University of New Mexico",
+  "InstitutionalDepartmentName": "Psychology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Brain Vision ActiChamp",
+  "EEGGround": "AFz",
+  "EEGReference": "CPz",
+  "EEGChannelCount": 60,
+  "TaskName": "PST",
+  "MiscChannelCount": 66,
+  "RecordingType": "continuous",
+  "RecordingDuration": 2881.7,
+  "SamplingFrequency": 500,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}

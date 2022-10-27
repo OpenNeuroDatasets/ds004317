@@ -1,0 +1,10 @@
+{
+  "Name": "PST",
+  "ReferencesAndLinks": ["DOI: "],
+  "Authors": [
+    "James F Cavanagh",
+    "Trevor C J Jackson"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
